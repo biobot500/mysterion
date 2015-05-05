@@ -1,0 +1,7 @@
+<Modules>
+
+	<module name="name"  value="license" />
+	<module name="foldername"  value="license" />
+	<module name="systemname"  value="license" />
+
+</Modules>

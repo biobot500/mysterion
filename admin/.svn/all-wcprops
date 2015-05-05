@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/2/admin
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/admin/license.txt
+END
+install_temp.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/admin/install_temp.php
+END
+install_modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/admin/install_modules.php
+END
+templates.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/admin/templates.php
+END
+create_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/admin/create_page.php
+END
+pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/admin/pages.php
+END
+admin_functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/admin/admin_functions.php
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/admin/style.css
+END
+edit_layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/admin/edit_layout.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/admin/index.html
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/admin/index.php
+END
+admin_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/admin/admin_actions.php
+END
+modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/admin/modules.php
+END

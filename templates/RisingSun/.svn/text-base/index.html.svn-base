@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>RisingSun</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <#^css^#>
+
+    <!--js files-->
+    <#^js^#>
+</head>
+<body>
+
+<div id="wrap">
+<h1><a href="#">Website Title - Slogan of your website</a></h1>
+<div id="header">
+
+</div>
+
+<div id="content">
+<div class="right" id="right">
+
+
+
+</div>
+
+<div class="left" id="left">
+
+</div>
+<div style="clear: both;"> </div>
+</div>
+
+<div id="bottom"> </div>
+<div id="footer">
+Designed by <a href="http://www.free-css-templates.com/">Free CSS Templates</a>, Thanks to <a href="http://www.openwebdesign.org/">custom web design</a></div>
+</div>
+
+</body>
+</html>

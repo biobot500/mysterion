@@ -1,0 +1,7 @@
+<Modules>
+
+	<module name="name"  value="categories" />
+	<module name="foldername"  value="categories" />
+	<module name="systemname"  value="categories" />
+
+</Modules>

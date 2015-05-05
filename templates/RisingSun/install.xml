@@ -1,0 +1,7 @@
+<Modules>
+<module name="foldername" value="RisingSun"/>
+<module name="name" value="RisingSun"/>
+<module name="css" value="css/style.css"/>
+<module name="js" value="js/action.js"/>
+<module name="imagepath" value="images"/>
+</Modules>

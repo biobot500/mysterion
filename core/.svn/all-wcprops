@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/svn/!svn/ver/2/core
+END
+BASE.php
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/core/BASE.php
+END
+MVC.php
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/5/core/MVC.php
+END
+app_loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/core/app_loader.php
+END

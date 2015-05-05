@@ -1,0 +1,5 @@
+<Modules>
+	<module name="name"  value="archive" />
+	<module name="foldername"  value="archive" />
+	<module name="systemname"  value="archive" />
+</Modules>
